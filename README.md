@@ -1,5 +1,7 @@
 # NameGen
 
+![logo nameGen](./ressources/Name%20Gen.png "logo nameGen")
+
 ## Project presentation
 
 I realized this project for fun and entertainement. The app offers some features, for example generating namge with your own set of data or generating your own database of generated names in a .txt file lit there is in [here](./ressources/nameLists/). 

@@ -32,7 +32,7 @@ This app aims to have fun trying to create new names and understand better how t
 
 ## License
 
-This project is under a MIT liscence described in the [LICENCE](./LICENCE) on the project. 
+This project is under a MIT liscence described in the [LICENSE](./LICENSE) on the project. 
 
 ## Project status
 
